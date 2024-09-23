@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6fAhQnoZQiz_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">AI for Workplace Talent Dev.</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="AI_for_Workplace_Talent_Dev._ORG">
+    <organization identifier="AI_for_Workplace_Talent_Dev._ORG">
+      <title>AI for Workplace Talent Dev.</title>
+      <item identifier="AI_for_Workplace_Talent_Dev._SCO" isvisible="true" identifierref="__6fAhQnoZQiz_course_id_RES">
+        <title>AI for Workplace Talent Dev.</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6fAhQnoZQiz_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6XP3wakAjDc_M_876_876.png" />
+      <file href="mobile/6IzqXiLdlAM.png" />
+      <file href="mobile/6WcZljXqC35_M_550_550.png" />
+      <file href="mobile/6fKwaouGfig_M_434_434.png" />
+      <file href="mobile/68wlIiTbN6C_M_224_224.png" />
+      <file href="mobile/61OP2MSII09_M_448_448_P_0_0_347_348.png" />
+      <file href="story_content/video_6IspxuD786I_22_56_720x544.mp4" />
+      <file href="mobile/poster_6LIPoha2XI0_video_6IspxuD786I_22_56_720x544.jpg" />
+      <file href="mobile/5mn2qOWd7HB.jpg" />
+      <file href="mobile/6l1sejPD137.jpg" />
+      <file href="mobile/6U2GtyWRrSF_P_138_10_304_384.png" />
+      <file href="story_content/5r7wxCWeNFe_44100_56_1.mp3" />
+      <file href="mobile/5zUyqNOz6w0_P_28_153_1227_360.jpg" />
+      <file href="mobile/6HaroULfUMh_M_692_692.png" />
+      <file href="mobile/5v7SjTDoXNe_M_1168_1168.png" />
+      <file href="mobile/6QFXDJPSOet_M_262_262.png" />
+      <file href="mobile/68y2WpcLal4_M_262_262.png" />
+      <file href="mobile/6XL3jeoyv0l_M_262_262.png" />
+      <file href="mobile/5jCDZZ9qgNC.jpg" />
+      <file href="mobile/6o1Ygmd1nKB_P_40_192_264_208.png" />
+      <file href="mobile/6cm1ZmBiTBp.jpg" />
+      <file href="mobile/5XxKqIPV6Va_M_202_202.png" />
+      <file href="mobile/5bHMbbK7WI0_M_224_224.png" />
+      <file href="mobile/6W895TVAsDc_M_208_208.png" />
+      <file href="mobile/5rI4zpRPLWx.jpg" />
+      <file href="mobile/5hfVoctkohJ.jpg" />
+      <file href="mobile/5dhD6bPsjfb.jpg" />
+      <file href="mobile/6OeY6oFWa3H.jpg" />
+      <file href="mobile/6HW31RI3EH0.jpg" />
+      <file href="mobile/5fFg4xtlLQ6.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6oIz6ZwzLv2.png" />
+      <file href="mobile/Shape6pQiTwtaFQi.png" />
+      <file href="mobile/Shape6Gup2inmy0Z.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dQOdkJqxxo.js" />
+      <file href="html5/data/js/5foAPDUtpSL.js" />
+      <file href="html5/data/js/5iu8sCRMKY5.js" />
+      <file href="html5/data/js/5qG4cOJNi2F.js" />
+      <file href="html5/data/js/5v4dzHqXvcq.js" />
+      <file href="html5/data/js/5wY0Nln3pVK.js" />
+      <file href="html5/data/js/5Yy9ThOlyJV.js" />
+      <file href="html5/data/js/61XQ238CVzm.js" />
+      <file href="html5/data/js/628cx9D8LDi.js" />
+      <file href="html5/data/js/664XSNRYkdC.js" />
+      <file href="html5/data/js/66BqkNGK3fT.js" />
+      <file href="html5/data/js/672tAYxbPVY.js" />
+      <file href="html5/data/js/67o71WclpF4.js" />
+      <file href="html5/data/js/6CXiXlme5m8.js" />
+      <file href="html5/data/js/6DDY4YZgDf8.js" />
+      <file href="html5/data/js/6EASc7LO10O.js" />
+      <file href="html5/data/js/6G9ALry87hY.js" />
+      <file href="html5/data/js/6j6jWgzRF5d.js" />
+      <file href="html5/data/js/6jJUt2Ox4Rb.js" />
+      <file href="html5/data/js/6K3i1zyuuMN.js" />
+      <file href="html5/data/js/6kAT8nJLxNt.js" />
+      <file href="html5/data/js/6kuUnNbX2Bk.js" />
+      <file href="html5/data/js/6MqgDsxuii8.js" />
+      <file href="html5/data/js/6NxonK6010T.js" />
+      <file href="html5/data/js/6O01pmUgMLO.js" />
+      <file href="html5/data/js/6O8JHI2swtX.js" />
+      <file href="html5/data/js/6OWW8hTDiqR.js" />
+      <file href="html5/data/js/6qTC8uqcECo.js" />
+      <file href="html5/data/js/6Tc3WLbTBkw.js" />
+      <file href="html5/data/js/6TiMLSMI7Tz.js" />
+      <file href="html5/data/js/6XGVvKIZqiW.js" />
+      <file href="html5/data/js/6Xrvx9IweUJ.js" />
+      <file href="html5/data/js/6Y02dnCsrjx.js" />
+      <file href="html5/data/js/6YAlopO7Xx9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
